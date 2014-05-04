@@ -10,20 +10,20 @@ The Latest Version
 ------------------
 
 Details of the latest version can be found on the project page:
-"Web-App-Project-----Trip-Planner", under https://github.com/kiddkevin00
+```Web-App-Project-----Trip-Planner```, under https://github.com/kiddkevin00
    
 
 Documentation
 -------------
   
-The complete-version document is written in "UI_project_doc.pdf" at project page:
-Web-App-Project-----Trip-Planner, under 
+The complete-version document is written in ```UI_project_doc.pdf``` at project page:
+```Web-App-Project-----Trip-Planner```, under 
 https://github.com/kiddkevin00
 
 Manual
 ------
   
-The omplete-version manual is in written "UserManual.pdf" at project page: "Web-App-Project-----Trip-Planner" under 
+The omplete-version manual is in written ```UserManual.pdf``` at project page: ```Web-App-Project-----Trip-Planner``` under 
 https://github.com/kiddkevin00
 
 Installation
