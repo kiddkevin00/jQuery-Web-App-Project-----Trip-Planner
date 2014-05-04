@@ -29,7 +29,7 @@ https://github.com/kiddkevin00
 Installation
 ------------
   
-Simply download the whole project, Before running tripplanner.html on a browser, make sure to ENTER API KEY and API SECRET in '''tripplanner.html 
+Simply download the whole project, Before running tripplanner.html on a browser, make sure to ENTER YOUR API KEY and API SECRET in ```tripplanner.html``` 
 
  
 
