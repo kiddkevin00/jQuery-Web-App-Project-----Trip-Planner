@@ -16,7 +16,7 @@ Details of the latest version can be found on the project page:
 Documentation
 -------------
   
-.pdf``` at project page:
+The complete-version document is written in ```UI_project_doc.pdf``` at project page:
 ```Web-App-Project-----Trip-Planner```, under 
 https://github.com/kiddkevin00
 
