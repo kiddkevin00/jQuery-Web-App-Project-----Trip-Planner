@@ -4,7 +4,7 @@ Web-App: Trip Planner
 What is it?
 -----------
 
-Using the Foursquare APIs(v2), our team has developed an application that helps users to make schedules for trips. The Foursquare application provides access to a wide variety of information about venues, however, it does not provide the function for users to plan trips to these venues. Our application allows users to search for and select venues by certain criteria, and create and arrange itineraries with these venues.
+Using the Foursquare APIs(v2), I have developed an application that helps users to make schedules for trips. The Foursquare application provides access to a wide variety of information about venues, however, it does not provide the function for users to plan trips to these venues. Our application allows users to search for and select venues by certain criteria, and create and arrange itineraries with these venues.
 
 The Latest Version
 ------------------
